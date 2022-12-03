@@ -6,11 +6,11 @@
 Group project
 
 Serial version (finalproject_ser.cpp):
-  Compile ( ex. g++ -o ser finalproject_ser.cpp  )
+  Compile ( ex. g++ -o ser finalproject_ser.cpp  ), \n
   Run the executable
   
   
 Parallel version (finalproject.c):
-  Compile using -lm flag (   ex. mpicc -o fp  finalproject.c -lm   )
+  Compile using -lm flag (   ex. mpicc -o fp  finalproject.c -lm   ), \n
   Run (   ex. mpiexec -n 10  ./fp    )
   
